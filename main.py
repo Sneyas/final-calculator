@@ -1,4 +1,7 @@
-from add,sub,mul,div import*
+from add import*
+from sub import*
+from mul import*
+from div import*
 print("Welcome to calculator")
 print("Select operation")
 print("1.Add")
