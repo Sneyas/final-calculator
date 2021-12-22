@@ -19,13 +19,13 @@ while True:
     print("Added value = ", add(num1, num2))
 
   elif choice == '2':
-    print("Subtracted value = ",  subtract(num1, num2))
+    print("Subtracted value = ",  sub(num1, num2))
 
   elif choice == '3':
-    print("Multiplied value = ", multiply(num1, num2))
+    print("Multiplied value = ", mul(num1, num2))
 
   elif choice == '4':
-    print("Divided value = ", divide(num1, num2))
+    print("Divided value = ", div(num1, num2))
         
   elif choice == '5':
     break
